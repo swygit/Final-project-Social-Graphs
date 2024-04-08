@@ -1,4 +1,4 @@
-# Final-project-Social-Graphs
+# 02805 Final Project on Spotify Network Analysis
 The final project for the course [Social graphs and interactions (02805)](https://kurser.dtu.dk/course/2022-2023/02805) offered by the [Technical University of Denmark](https://www.dtu.dk/)
 
 ### Data:
